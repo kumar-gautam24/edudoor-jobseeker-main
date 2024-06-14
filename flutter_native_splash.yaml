@@ -1,0 +1,18 @@
+flutter_native_splash:
+  # dart run flutter_native_splash:create
+  # dart run flutter_native_splash:remove
+
+  color: "#1da1f2"
+  color_dark: "#1da1f2"
+  image: assets/images/edudoor-logo.png
+  image_dark: assets/images/edudoor-logo.png
+  android_12:
+    color: "#1da1f2"
+    color_dark: "#1da1f2"
+
+
+
+
+
+
+

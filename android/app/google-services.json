@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "342002122095",
+    "project_id": "edudoor-d1eb5",
+    "storage_bucket": "edudoor-d1eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342002122095:android:836ff6816f9c42eccf3c9a",
+        "android_client_info": {
+          "package_name": "com.edudoor.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeyKrOFW-yuL9Qj-f52qkLoXLPDP8MvGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342002122095:android:9634285b924b74f3cf3c9a",
+        "android_client_info": {
+          "package_name": "com.example.edu2door"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeyKrOFW-yuL9Qj-f52qkLoXLPDP8MvGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342002122095:android:fd56f3e1f0d98c4fcf3c9a",
+        "android_client_info": {
+          "package_name": "com.example.edudoor_jobseeker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeyKrOFW-yuL9Qj-f52qkLoXLPDP8MvGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
